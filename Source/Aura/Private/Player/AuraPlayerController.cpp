@@ -6,7 +6,7 @@
 #include "EnhancedInputSubsystems.h"
 
 
-AAuraPlayerController::AuralayerController()
+AAuraPlayerController::AAuraPlayerController()
 {
 	bReplicates = true;
 }
